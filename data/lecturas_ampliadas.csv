@@ -1,4 +1,4 @@
-id_sensor,timestamp,temperatura,humedad,pm25
+id_sensor,timestamp,temperatura,humedad,pm25 
 EST-001,2026-03-02 00:00,11.0,80.3,14.7
 EST-001,2026-03-02 01:00,11.1,84.9,14.5
 EST-001,2026-03-02 02:00,10.5,81.7,12.5
