@@ -7,6 +7,7 @@
    navegación hacia atrás.
    ============================================================ */
 
+
 package control;
 
 import model.LecturaSensor;
