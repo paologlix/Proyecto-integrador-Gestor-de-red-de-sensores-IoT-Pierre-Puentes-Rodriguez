@@ -1,6 +1,6 @@
 /* ============================================================
    PLATAFORMA DE MONITOREO AMBIENTAL URBANO
-   RepositorioColeccion - VERSION CORREGIDA
+   RepositorioColeccion - VERSION CORREGIDA 
 
    Tercera implementacion del contrato Repositorio de la semana 5.
    La primera guardaba en un arreglo propio, la segunda en una
