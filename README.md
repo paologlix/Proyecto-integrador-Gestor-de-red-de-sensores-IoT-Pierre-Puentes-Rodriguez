@@ -46,9 +46,8 @@ Este repositorio contiene la solución completa del proyecto integrado que se de
 
 ## Cómo compilar y ejecutar
 
-```bash
-# Desde la raíz del proyecto
-javac -d out src/**/*.java test/*.java
+$files = Get-ChildItem -Recurse -Path src,test -Filter *.java | ForEach-Object { $_.FullName }
+javac -encoding UTF-8 -cp "lib/junit-platform-console-standalone-1.10.2.jar" -d out $files
 
 # Ejecutar la aplicación principal (ingesta completa)
 java -cp out ingest.IngestaSensores

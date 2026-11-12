@@ -228,7 +228,6 @@ public class GestorDeRed {
     public Queue<LecturaSensor> getColaLecturas() {
         return colaLecturas;
     }
-}
     public List<LecturaSensor> filtrarAlertasCriticas(double limitePm25) {
         // TODO EXTRA: Usar Streams para filtrar lecturas con PM2.5 superior al límite.
         // Debe retornar una lista con las lecturas filtradas.

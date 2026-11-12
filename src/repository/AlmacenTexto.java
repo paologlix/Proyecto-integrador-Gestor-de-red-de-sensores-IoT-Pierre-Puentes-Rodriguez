@@ -56,11 +56,8 @@ public class AlmacenTexto {
         return lecturas;
     }
 
-    private String sanitizar(String texto) {
-        if (texto == null) return "";
-        return texto.replace(SEPARADOR, " ");
-    }
-}
+   
+
     private String sanitizar(String texto) {
         if (texto == null) return "";
         // Solución simple: reemplazar el separador por un espacio

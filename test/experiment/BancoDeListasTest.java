@@ -1,4 +1,5 @@
-import experiment.BancoDeListas;
+package experiment;
+
 import org.junit.jupiter.api.Test;
 
 
