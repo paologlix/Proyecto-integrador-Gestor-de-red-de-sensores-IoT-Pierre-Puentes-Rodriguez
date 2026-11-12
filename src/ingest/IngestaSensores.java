@@ -3,7 +3,7 @@
    IngestaSensores - SEMANA 3
 
    Este es el ÚNICO punto de entrada de todo el proyecto.
-
+ 
    Las semanas no crean aplicaciones independientes:
    cada semana agrega capacidades a esta misma plataforma.
    ============================================================ */
