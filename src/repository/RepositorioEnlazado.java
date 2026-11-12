@@ -1,5 +1,5 @@
 /* ============================================================
-   PLATAFORMA DE MONITOREO AMBIENTAL URBANO
+   PLATAFORMA DE MONITOREO AMBIENTAL URBANO 
    RepositorioEnlazado - VERSION CORREGIDA
 
    Implementa la interfaz Repositorio usando una lista enlazada.
