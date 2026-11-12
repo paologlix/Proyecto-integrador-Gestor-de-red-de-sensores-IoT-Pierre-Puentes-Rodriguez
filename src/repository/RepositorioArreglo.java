@@ -1,5 +1,5 @@
 /* ============================================================
-   PLATAFORMA DE MONITOREO AMBIENTAL URBANO
+   PLATAFORMA DE MONITOREO AMBIENTAL URBANO 
    RepositorioArreglo - VERSION COMPLETA
 
    Esta es la solucion de referencia de la semana 2, ajustada
