@@ -14,6 +14,7 @@ import search.BuscadorLecturas;
 import sorting.Ordenador;
 import generator.GeneradorDatos;
 
+@SuppressWarnings("unused")
 public class BancoDeOrdenamiento {
 
     public static void main(String[] args) {
