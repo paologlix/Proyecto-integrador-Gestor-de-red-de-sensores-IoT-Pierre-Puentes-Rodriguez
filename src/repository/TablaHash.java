@@ -1,6 +1,6 @@
 package repository;
 
-import model.ClaveLectura;
+
 import java.util.LinkedList;
 
 /**
