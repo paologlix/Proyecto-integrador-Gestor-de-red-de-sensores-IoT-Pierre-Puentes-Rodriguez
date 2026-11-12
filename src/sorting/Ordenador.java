@@ -1,5 +1,5 @@
 /* ============================================================
-   PLATAFORMA DE MONITOREO AMBIENTAL URBANO
+   PLATAFORMA DE MONITOREO AMBIENTAL URBANO 
    Ordenador - VERSION 0.1 INCOMPLETA
 
    La semana pasada descubriste que la busqueda binaria exige
