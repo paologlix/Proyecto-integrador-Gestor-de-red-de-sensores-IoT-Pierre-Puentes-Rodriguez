@@ -1,6 +1,8 @@
+package search;
+
 import model.LecturaSensor;
 import org.junit.jupiter.api.Test;
-import search.BuscadorLecturas;
+
 
 import static org.junit.jupiter.api.Assertions.*;
 
