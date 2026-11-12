@@ -30,7 +30,7 @@ public class BancoDeFlujo {
     private static void experimentoUno() {
         System.out.println("=== EXP 1: EL DESHACER DEL OPERADOR ===");
         PilaDeAcciones historial = new PilaDeAcciones();
-
+ 
         historial.apilar("Marcar EST-003 como sospechosa");
         historial.apilar("Cambiar umbral de PM2.5 a 35");
         historial.apilar("Desactivar EST-007");
