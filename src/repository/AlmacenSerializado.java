@@ -1,5 +1,5 @@
 package repository;
-
+ 
 import model.LecturaSensor;
 import java.io.*;
 import java.util.*;
