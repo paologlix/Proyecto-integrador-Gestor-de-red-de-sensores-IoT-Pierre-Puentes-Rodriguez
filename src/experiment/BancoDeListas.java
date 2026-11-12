@@ -14,6 +14,7 @@ import repository.RepositorioArreglo;
 import repository.RepositorioEnlazado;
 import generator.GeneradorDatos;
 
+@SuppressWarnings("unused")
 public class BancoDeListas {
 
     public static void main(String[] args) {
